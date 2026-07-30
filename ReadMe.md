@@ -1,6 +1,3 @@
-> **Note:** The repository edition does not contain the latest Stable Release.  
-> For the complete supported version, download the newest release from the Releases section.
-
 ```text
 ███╗   ███╗██████╗ ██████╗ ██╗     ██╗██████╗
 ████╗ ████║██╔══██╗██╔══██╗██║     ██║██╔══██╗
@@ -57,15 +54,11 @@ mrplib provides the foundational layer for the MRP encrypted message file format
 - **Python 3** (for installer resource embedding)
 - **Make**
 
-### Recommended Installation (Stable Release)
+### Recommended Installation (Stable 
 
-Download the latest stable release from the [Releases](../../releases) section.
+Download the Setup form the Releases section
 
-**Stable Release includes:**
-- Pre-built shared library (`libmrplib.so` / `.dll` / `.dylib`)
-- CLI tools (`mrp-info`, `mrp-check`, `mrp-register`)
-- Self-contained installer (`mrp-installer.exe` / `.bin` / `.efl`)
-- All resource files for filetype registration
+### If manual installation
 
 After downloading, run the installer:
 
@@ -127,10 +120,17 @@ cd Windows
 make
 ```
 
-### macOS / FreeBSD
+### macOS
 
 ```bash
-cd macOS      # or FreeBSD
+cd macOS
+make
+```
+
+### FreeBSD
+
+```bash
+cd FreeBSD
 make
 ```
 
