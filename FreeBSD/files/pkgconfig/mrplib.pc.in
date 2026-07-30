@@ -1,0 +1,10 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: mrplib
+Description: MRP encrypted file format library
+Version: 1.0.0
+Libs: -L${libdir} -lmrplib
+Cflags: -I${includedir}

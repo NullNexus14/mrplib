@@ -1,0 +1,4 @@
+[Thumbnailer Entry]
+TryExec=mrp-thumbnailer
+Exec=mrp-thumbnailer %i %o %s
+MimeType=application/x-mrp;

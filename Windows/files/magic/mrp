@@ -1,0 +1,3 @@
+# MRP: Encrypted Message File
+0	string	MRP1	MRP encrypted message file
+!:mime	application/x-mrp

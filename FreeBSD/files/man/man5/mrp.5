@@ -1,0 +1,7 @@
+.TH MRP 5 "mrplib 1.0.0"
+.SH NAME
+mrp \- MRP encrypted message file format
+.SH DESCRIPTION
+The .mrp file format uses a multi-step encoding pipeline:
+Caesar cipher (+8), custom morse encoding, bit conversion,
+bit inversion, and length-prefixed byte packing.
