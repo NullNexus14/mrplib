@@ -1,3 +1,7 @@
+> **NOTE** The Project is not finished yet. **DO NOT CLONE OR INSTALL ANYTHING**
+> For more information, contact NullNexus14@proton.me or nullnexus14@tutamail.com
+
+
 ```text
 ███╗   ███╗██████╗ ██████╗ ██╗     ██╗██████╗
 ████╗ ████║██╔══██╗██╔══██╗██║     ██║██╔══██╗
