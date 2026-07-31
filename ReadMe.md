@@ -7,7 +7,7 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝     ╚══════╝╚═╝╚═════╝
 ```
 
-**MRP Encrypted Message Filetype System — System-level registration, encoding library, and cross-platform installer for the `.mrp` format.**
+**MRP Encrypted Filetype System — System-level registration, encoding library, and cross-platform installer for the `.mrp` format.**
 
 ---
 
